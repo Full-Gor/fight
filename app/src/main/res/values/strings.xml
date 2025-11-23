@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shadow Fight 2</string>
+    <string name="game_title">SHADOW FIGHT 2</string>
+    <string name="play">PLAY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="quit">QUIT</string>
+    <string name="fight">FIGHT!</string>
+    <string name="victory">VICTORY!</string>
+    <string name="defeat">DEFEAT</string>
+    <string name="round">ROUND</string>
+    <string name="loading">Loading...</string>
+</resources>
