@@ -21,6 +21,10 @@ dependencies {
     implementation "com.badlogicgames.gdx:gdx-freetype:1.12.1"
     implementation "com.badlogicgames.gdx:gdx-freetype-platform:1.12.1:natives-desktop"
 
+    // Controller support (Gamepad/Joystick)
+    implementation "com.badlogicgames.gdx-controllers:gdx-controllers-desktop:2.2.3"
+    implementation "com.badlogicgames.gdx-controllers:gdx-controllers-core:2.2.3"
+
     // Kotlin
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.9.0"
 }
